@@ -1,0 +1,7 @@
+# Ignore uploaded files (keep repo small and avoid long filenames on Windows)
+collaborative-team-hub/apps/api/uploads/
+
+# Common ignores
+node_modules/
+.env
+/.DS_Store
